@@ -18,7 +18,7 @@
   // ESLintの自動修正を実行したい場合は、codeActionsOnSaveを設定する。
   //
   // formatOnSaveがfalseだと、保存時にPrettier・ESLintは実行されない
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
 
   // エディターの行の最大文字数を設定
   "editor.rulers": [100],
