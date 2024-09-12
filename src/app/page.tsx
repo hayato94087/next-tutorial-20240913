@@ -1,6 +1,7 @@
 import { type FC } from "react";
 
 const Home: FC = () => {
+  const count = 0;
   return (
     <main>
       <div className="flex justify-center items-center h-screen">
